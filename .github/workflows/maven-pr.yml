@@ -1,4 +1,4 @@
-name: Build the plugin
+name: Build the plugin correctly
 
 on: pull_request
 
